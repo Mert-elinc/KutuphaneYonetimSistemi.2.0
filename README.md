@@ -14,7 +14,7 @@ Bu projede kendimi geliştirmek adına eklediğim temel özellikler şunlardır:
 * **Üye Yönetimi:** Yeni üye ekleme, silme ve listeleme (TC Kimlik ve mükerrer kayıt kontrolü ile).
 * **Kitap Yönetimi:** Kitap ekleme, silme ve listeleme (Benzersiz kitap kodu kontrolü ile).
 * **Ödünç/İade Sistemi:** Bir kitabı bir üyeye zimmetleme (ödünç verme) ve geri alma (iade) işlemleri.
-* **Akıllı Kontroller:** Borcu (teslim etmediği kitabı) olan üyenin silinmesini engelleme, olmayan kitabı ödünç verememe gibi mantıksal hata kontrolleri.
+* **Akıllı Kontroller:** Teslim etmediği kitabı olan üyenin silinmesini engelleme, olmayan kitabı ödünç verememe gibi mantıksal hata kontrolleri.
 
 ### 🛠️ Kullanılan Teknolojiler
 * C# (.NET 6.0+)
